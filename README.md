@@ -1,4 +1,4 @@
-# Information Gravity II — A Geometric Theory of Meaning and Attention
+# Information Gravity — A Geometric Theory of Meaning and Attention
 
 Dense ideas bend the fabric of attention.  
 This repository explores the analogy between **gravity** and **meaning**,  
